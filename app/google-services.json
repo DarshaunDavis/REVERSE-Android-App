@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709693250934",
+    "project_id": "reverse-5408b",
+    "storage_bucket": "reverse-5408b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709693250934:android:722d25fe2baa750524ee57",
+        "android_client_info": {
+          "package_name": "com.lislalcorporation.reverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709693250934-i97q5pei2hhasmocu3hb5cemkcr0ko6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg1MBD1KQDD-gfnDJLdk6sHHAd0Iy6dpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709693250934-i97q5pei2hhasmocu3hb5cemkcr0ko6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
