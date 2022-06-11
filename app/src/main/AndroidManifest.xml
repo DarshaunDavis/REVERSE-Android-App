@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.lislalcorporation.reverse">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -15,6 +15,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.REVERSE"
         tools:targetApi="31">
+        <activity
+            android:name=".NewEmployeeActivity"
+            android:exported="false" />
         <activity
             android:name=".PasswordRecoveryActivity"
             android:exported="false" />
